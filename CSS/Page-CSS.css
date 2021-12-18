@@ -11,6 +11,7 @@ body {
 }
 
 #icon_cite {
+	width: 70px;
 	position: fixed;
 	top: 12px;
 	left: 17px;
@@ -22,4 +23,17 @@ body {
 	left: 100px;
 	top: 2px;
 	font-family: 'Comic Neue', cursive;
+}
+
+#icon_reload {
+	width: 70px;
+}
+
+#button_icon_reload {
+	position: relative;
+	top: 1px;
+	right: 1px;
+	background: #7ad8ff;
+	border-color: #36c4ff;
+	width: 10px;
 }
